@@ -50,6 +50,7 @@ class Footer extends Component {
                   data-icon="twemoji-flag-for-flag-poland"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
+                  style={{display: 'none'}}
                 ></span>
               </div>
             </div>

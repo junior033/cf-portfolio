@@ -106,6 +106,9 @@ class Header extends Component {
               <h1 className="mb-0">
                 {name}
               </h1>
+              <h2>
+              Military Veteran with proven experience in building exceptional relationships with high-level initiative, attention to detail, commitment to excellence, and growth. Proven performance in linking corporate vision with the delivery of desired results through empowerment, development, and utilization of people, processes, and technology.
+              </h2>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>

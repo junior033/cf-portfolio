@@ -16,7 +16,12 @@ class About extends Component {
     }
 
     return (
-      <section id="about">
+  <section id="about" style={{  
+    backgroundImage: "url(" + 'images/guillermo-ferla-lLExhYl-cXQ-unsplash.jpg' + ")",
+    backgroundPosition: 'center',
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat'
+  }}>
         <div className="col-md-12">
           <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>
